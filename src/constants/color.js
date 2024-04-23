@@ -1,0 +1,18 @@
+export default {
+  background: '#D3D3D3',
+  backgroundColor:'#F5F5F5',
+  borderBottomColor: 'black',
+  boardBorder: '#000',
+  cellBackground: '#006400',
+  cellText: 'black',
+  messagebackground: '#808080',
+  buttonbackgroundColor: 'gray', 
+  buttontextcolor: '#FFFFFF', 
+  titleBackground: 'red',
+  titletextcolor: 'black',
+  borderColor: 'red',
+  textcontainer:'gray',
+  completeIcon:'green',
+  deleteIcon:'red',
+  itemColor:'#B0C4DE',
+};
